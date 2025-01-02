@@ -1,0 +1,9 @@
+names:
+- pedestrian
+- trafficLight
+- trafficSign
+- twoWheeler
+- vehicle
+nc: 5
+train: /home/jupyter/data/train/images
+val: /home/jupyter/data/valid/images
